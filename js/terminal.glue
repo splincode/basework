@@ -1,0 +1,12 @@
+ █ [ /home/splincode/basework/js ] mkdir lesson15
+
+█ [ /home/splincode/basework/js/lesson15 ] cd lesson15
+/home/splincode/basework/js/lesson15
+
+█ [ /home/splincode/basework/js/lesson15 ] touch app.js
+
+█ [ /home/splincode/basework/js ] cd ..
+/home/splincode/basework/js
+
+█ [ /home/splincode/basework/js ] touch .editorconfig
+
