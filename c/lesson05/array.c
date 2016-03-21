@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main(){
 	
-	// Celsius
-    int Celsius[5] = {1, 2, 3, 4, 5};
+    int Celsius[5] = {1, 2, 3, 4, 5}; // Celsius
     
     // Fahrenheit
     int Fahrenheit[5] = {
