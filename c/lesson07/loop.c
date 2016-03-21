@@ -7,8 +7,8 @@ int main(){
 
     // Fahrenheit
     for(int i = 0; i < 5; ++i){
-        Fahrenheit[i] = (9.0/5.0)*Celsius[i] + 32;
-        printf("%f = %f \n", Celsius[i], Fahrenheit[i]);
+        Fahrenheit[i] = (9.0/5.0)*Celsius[i] + 32.0;
+        printf("%.1f = %.1f \n", Celsius[i], Fahrenheit[i]);
     }
     
 	return 0;
