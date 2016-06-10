@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
-TEXTCOMMIT="update" # коммит по умолчанию
+TEXTCOMMIT="update"
 
-if [[ "$1" == "-c" && "$2" != "" ]]; then
-	TEXTCOMMIT=$2; # описание коммита
+if [[ "$1" == "-c" && "$2" != "" ]]
+	then
+		TEXTCOMMIT=$2
 fi
 
 git add .
