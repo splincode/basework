@@ -1,57 +1,59 @@
 #include <iostream>
-#include "extern.cpp"
-
 using namespace std;
 
+int* sort(int c, int *a){
 
-void sort(int c, int a[]){
-
-    for (int i = 0; i < c; i++){
-        for(int j = 0; j < (c-1); j++) {
-
-            if (a[i] >= a[j+1]) {
-
-                int temp = a[j+1];
-                a[j+1] = a[i];
-                a[i] = temp;
+    for(int i=0; i < c-1; i++){
+        for(int j=0; j < c-i-1; j++){
+            if(a[j+1] < a[j]){
+                swap(a[j+1], a[j]);
             }
-
         }
     }
 
-    for (int i = 0; i < c; i++) {
-        cout << a[i] << " ";
-    }
+    return a;
 
 }
 
-
-
 int main(int argc, char *argv[]){
 
+    // argv[0] = ./lesson04
+    for (int i = 1; i < argc; i++ ) {
 
-    for (int i = 1; i < argc; i++ ){
-
-        if (string(argv[i]) == "-key") {
-            cout << "hash" << endl;
-        } else if (string(argv[i]) == "-viewpass") {
-            cout << "12345" << endl;
+        if (string(argv[i]) == "-name") {
+            cout << "Max" << endl;
+        } else if (string(argv[i]) == "-lastname") {
+            cout << "Ivanov" << endl;
         }
 
     }
 
-    int a[5] = {1, 3, 2, 5, 4};
+    int* b = new int(5);
+
+    int a[5] = {1, 3, 5, 4, 2};
+
+    int *c = new int[5];
+    c[0] = 1;
+    c[1] = 3;
+    c[2] = 5;
+    c[3] = 4;
+    c[4] = 2;
 
     sort(5, a);
 
+    for(int i=0; i < 5; i++){
+        cout << *(c++) << " ";
+    }
 
-    return 0;
+    int d = 5;
+    int* p = &d;
 
+    cout << endl << *p << endl;
 
-    //int a; // стековая область памяти
-    //int* b = new int(2); // динамическая область памяти
+    cout << endl;
 
-    //cout << a << endl;
+    delete b;    // размер массив
+    delete [] c; // [5,             1, 3, 5, 4, 2];
 
     return 0;
 }
