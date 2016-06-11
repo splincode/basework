@@ -47,14 +47,7 @@ std::string gettype(var* opt){
 
 int main(int argc, char *argv[]){
 
-
-    var* a = new Int();
-    var* b = new String();
-    var* c = new Float();
-    var* x = new M();
-
-    cout << gettype(a) << endl;
-
+    // универсальный полиморфизм
     value<int> n;
     n.val = 5;
 
@@ -63,6 +56,16 @@ int main(int argc, char *argv[]){
 
     cout << n.val << endl;
     cout << s.val << endl;
+
+    // динамический полиморфизм
+    var* a = new Int();
+    var* b = new String();
+    var* c = new Float();
+    var* x = new M();
+
+    cout << gettype(a) << endl;
+
+
 
     return 0;
 }
