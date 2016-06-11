@@ -46,5 +46,5 @@ $ sudo apt-get install vagrant # лучше через сайт
 <b>Материалы</b> <br>
 <a href="https://www.vagrantup.com/downloads.html">Vagrant</a> <br>
 <a href="https://www.virtualbox.org/wiki/Linux_Downloads">Virtualbox</a> <br>
-<a href="https://puphpet.com">puphpet</a> <br>
+<a href="https://puphpet.com">PuPHPet</a> <br>
 <a href="http://stackoverflow.com/questions/22752512/vagrant-how-to-access-sync-phpmyadmin-on-host-machine">Vagrant, how to access/sync phpmyadmin on host machine</a> <br>
