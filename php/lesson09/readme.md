@@ -16,7 +16,7 @@ $ sudo apt-get install vagrant # лучше через сайт
 
 <b>Скачать образ виртуальной машины, сгенерированный puphpet</b>
 
-<a href="/nginx.zip">На основе Nginx (php7) </a>
+<a href="https://github.com/splincode/basework/raw/master/php/lesson09/nginx.zip">На основе Nginx (php7) </a>
 
 ```text
 * PHP7 + Nginx + MySQL5.6 + composer
@@ -28,7 +28,7 @@ $ sudo apt-get install vagrant # лучше через сайт
 * $ vagrant halt # выключить виртуальную машину
 ```
 
-<a href="/nginx.zip">На основе Apache (php5.6) </a>
+<a href="https://github.com/splincode/basework/raw/master/php/lesson09/apache.zip">На основе Apache (php5.6) </a>
 
 ```text
 * PHP5.6 + Apache + MySQL5.6 + composer
