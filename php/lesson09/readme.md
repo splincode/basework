@@ -43,7 +43,7 @@ $ sudo apt-get install vagrant # лучше через сайт
 <b>Разархивируем в нужную папку и устанавливаем</b>
 <img src="https://habrastorage.org/files/561/ee0/9c4/561ee09c4e724ff6af51d5abd5af7ad2.png"/>
 
-<b>Материалы</b>
+<b>Материалы</b> <br>
 <a href="https://www.vagrantup.com/downloads.html">Vagrant</a> <br>
 <a href="https://www.virtualbox.org/wiki/Linux_Downloads">Virtualbox</a> <br>
 <a href="https://puphpet.com">puphpet</a> <br>
