@@ -39,3 +39,6 @@ $ sudo apt-get install vagrant # лучше через сайт
 * $ logout # выйти из системы
 * $ vagrant halt # выключить виртуальную машину
 ```
+
+<b>Разархивируем в нужную папку и устанавливаем</b>
+<img src="https://habrastorage.org/files/561/ee0/9c4/561ee09c4e724ff6af51d5abd5af7ad2.png"/>
