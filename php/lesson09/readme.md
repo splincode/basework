@@ -1,12 +1,12 @@
 <h3>Vagrant</h3>
 
-1. Установка виртуальной машины
+<b>Установка виртуальной машины</b>
 
 ```bash
 $ sudo apt-get install virtualbox
 ```
 
-2. Установка менеджера
+<b>Установка менеджера</b>
 	
 ```bash
 $ sudo apt-get install vagrant # лучше через сайт 
@@ -14,7 +14,7 @@ $ sudo apt-get install vagrant # лучше через сайт
 
 <a href="https://www.vagrantup.com/downloads.html">Официальный сайт vagrant</a>
 
-3. Скачать образ виртуальной машины, сгенерированный puphpet
+<b>Скачать образ виртуальной машины, сгенерированный puphpet</b>
 
 <a href="/nginx.zip">На основе Nginx (php7) </a>
 
