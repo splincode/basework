@@ -9,6 +9,7 @@
 	</li>
 </ul><br>
 
+<img src="http://splincode.github.io/course/img/cpp.png" align="left" width="36" height="36" alt="">
 <h4>C/С++</h4>
 <ul>
 	<li>
@@ -16,6 +17,7 @@
 	</li>
 </ul><br>
 
+<img src="http://splincode.github.io/course/img/ch.png" align="left" width="36" height="36" alt="">
 <h4>C#</h4>
 <ul>
 	<li>
@@ -23,6 +25,7 @@
 	</li>
 </ul><br>
 
+<img src="http://splincode.github.io/course/img/java.png" align="left" width="36" height="36" alt="">
 <h4>Java</h4>
 <ul>
 	<li>
