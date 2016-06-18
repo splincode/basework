@@ -1,7 +1,7 @@
 <img src="http://splincode.github.io/build/img/basework.png" align="center" alt="">
 
 <h3>Нативное программирование</h3>
-<img src="http://splincode.github.io/course/img/p.png" align="left" width="48" height="48" alt="">
+<img src="http://splincode.github.io/course/img/p.png" align="left" width="32" height="32" alt="">
 <h4>Python</h4>
 <ul>
 	<li>
