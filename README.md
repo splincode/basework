@@ -1,3 +1,2 @@
-# splincodewd-hw
-домашние работы от канала splincodewd на youtube
+<img src="http://splincode.github.io/build/img/basework.png" align="center" alt="">
 
