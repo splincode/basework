@@ -39,7 +39,11 @@
 <h4>HTML</h4>
 <ul>
 	<li>
-		<a href="#">1. </a>
+		<a href="#">Введение в web-программирование </a><br>
+		<a href="#"><img src="http://splincode.github.io/course/img/p.png" aling="left" alt="">презентация</a>
+		<a href="#"><img src="http://splincode.github.io/course/img/video.png" aling="left" alt="">видеоурок</a>
+		<a href="#"><img src="http://splincode.github.io/course/img/p.png" aling="left" alt="">материалы</a>
+
 	</li>
 </ul><br>
 
