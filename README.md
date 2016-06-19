@@ -40,15 +40,15 @@
 <ul>
 	<li>
 		Введение в web-программирование<br>
-		<a href="#">
+		<a>
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
-		<a href="#">
+		<a href="https://www.youtube.com/watch?v=_W3PzK4PIm0">
 			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			видеоурок
 		</a>
-		<a href="#">
+		<a>
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
