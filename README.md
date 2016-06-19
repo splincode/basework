@@ -43,7 +43,6 @@
 		<a href="#"><img src="http://splincode.github.io/course/img/p.png" aling="left" alt="">презентация</a>
 		<a href="#"><img src="http://splincode.github.io/course/img/video.png" aling="left" alt="">видеоурок</a>
 		<a href="#"><img src="http://splincode.github.io/course/img/p.png" aling="left" alt="">материалы</a>
-
 	</li>
 </ul><br>
 
