@@ -39,15 +39,18 @@
 <h4>HTML</h4>
 <ul>
 	<li>
-		<a href="#">Введение в web-программирование </a><br>
+		Введение в web-программирование<br>
 		<a href="#">
-			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" alt="">презентация
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
 		</a>
 		<a href="#">
-			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" alt="">видеоурок
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" alt="">
+			видеоурок
 		</a>
 		<a href="#">
-			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" alt="">материалы
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" alt="">
+			материалы
 		</a>
 	</li>
 </ul><br>
