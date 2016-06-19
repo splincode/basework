@@ -45,11 +45,11 @@
 			презентация
 		</a>
 		<a href="#">
-			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" alt="">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			видеоурок
 		</a>
 		<a href="#">
-			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
