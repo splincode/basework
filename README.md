@@ -49,7 +49,7 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
