@@ -53,6 +53,38 @@
 			материалы
 		</a>
 	</li>
+	<!-- -->
+	<li>
+		Рабочая среда<br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://www.youtube.com/watch?v=sx3DOlzdtmc">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li>
+	<!-- -->
+	<li>
+		Базовый макет веб-страницы<br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://www.youtube.com/watch?v=sLa3EEOI2BI">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li>
 </ul><br>
 
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-48.png" align="left" width="36" height="36" alt="">
