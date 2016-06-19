@@ -36,7 +36,7 @@
 <h3>Веб-программирование</h3>
 
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-48.png" align="left" width="36" height="36" alt="">
-<h4>HTML</h4>
+<h4>HTML</h4><a href='#html'></a>
 <ol>
 	<li>
 		Введение в web-программирование<br>
