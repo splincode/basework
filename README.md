@@ -49,11 +49,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
-	<!-- -->
 	<li>
 		Рабочая среда<br>
 		<a>
@@ -65,11 +64,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
-	<!-- -->
 	<li>
 		Базовый макет веб-страницы<br>
 		<a>
@@ -81,7 +79,7 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-32.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
