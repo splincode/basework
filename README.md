@@ -98,6 +98,51 @@
 			материалы
 		</a>
 	</li>
+	<li>
+		Работа с текстом<br>
+		<a>
+			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/mQxLmaZI9tQ?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li>
+	<li>
+		Работа с цветом<br>
+		<a>
+			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/HGETgYmmIwY?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li>
+	<li>
+		Работа с изображениями<br>
+		<a>
+			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://www.youtube.com/watch?v=Ocqy1bJcRc8&list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq&index=8">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li>
 </ol><br>
 
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-48.png" align="left" width="36" height="36" alt="">
