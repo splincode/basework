@@ -64,7 +64,7 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+		<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li><br>
@@ -75,22 +75,22 @@
 			презентация
 		</a>
 		<a href="https://www.youtube.com/watch?v=sLa3EEOI2BI">
-			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+		<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			видеоурок
 		</a>
 		<a>
 			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Понятие тег и структура документа<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+		<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/wwY_mRNpma8">
-			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+		<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			видеоурок
 		</a>
 		<a>
@@ -101,7 +101,7 @@
 	<li>
 		Работа с текстом<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/mQxLmaZI9tQ?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -116,7 +116,7 @@
 	<li>
 		Работа с цветом<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/HGETgYmmIwY?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -131,7 +131,7 @@
 	<li>
 		Работа с изображениями<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://www.youtube.com/watch?v=Ocqy1bJcRc8&list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq&index=8">
@@ -139,14 +139,14 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
 	</li>
 	<li>
 		Ссылки и списки<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/6hgo9hjyQkI?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -161,7 +161,7 @@
 	<li>
 		Таблицы<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/sKkeyjUDrOs?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -176,7 +176,7 @@
 	<li>
 		Видео и аудио<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/4Ed9RaHUCVo?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -191,7 +191,7 @@
 	<li>
 		Формы<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/VbNLdSAR9dw?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -206,7 +206,7 @@
 	<li>
 		Теги внешних объектов<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/ZVnZYLqDP7g?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -221,7 +221,7 @@
 	<li>
 		Inline and block elements<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/zPAXC5DSSYs?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -236,7 +236,7 @@
 	<li>
 		Семантика веб-сайта<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/ED8Dkwsv6PU?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -251,7 +251,7 @@
 	<li>
 		Static and dynamic websites<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/Glkl42tNKjw?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -266,7 +266,7 @@
 	<li>
 		Виды html-верстки<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/GAryCDtFG_E?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -281,7 +281,7 @@
 	<li>
 		Специальные теги<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/HaBI-eebS2o?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -296,7 +296,7 @@
 	<li>
 		Специальные атрибуты<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/VkBt08l8RGk?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -311,7 +311,7 @@
 	<li>
 		Менеджер пакетов npm<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/LiOD2gFBcn8?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -326,7 +326,7 @@
 	<li>
 		HTML5 ★ BOILERPLATE<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/uQVn2s1l7kw?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
@@ -341,7 +341,7 @@
 	<li>
 		Initializr - генератор шаблонов<br>
 		<a>
-			<img src="#" height="14" widht="14" aling="left" hspace="2" alt="">
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
 		<a href="https://youtu.be/3t6CpnIOB2Q?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
