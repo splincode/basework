@@ -190,7 +190,7 @@
 	</li><br>
 	<li>
 		Видео и аудио<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1Y2IaL0XDc2TrPtxQgN1AIX3Fm6E6JWaHj2RC97S_hmM/pub?start=false&loop=false&delayms=10000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
