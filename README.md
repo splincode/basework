@@ -94,10 +94,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Работа с текстом<br>
 		<a>
@@ -109,10 +109,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Работа с цветом<br>
 		<a>
@@ -124,10 +124,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Работа с изображениями<br>
 		<a>
@@ -139,10 +139,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Ссылки и списки<br>
 		<a>
@@ -154,10 +154,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Таблицы<br>
 		<a>
@@ -169,10 +169,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Видео и аудио<br>
 		<a>
@@ -184,10 +184,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Формы<br>
 		<a>
@@ -199,10 +199,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Теги внешних объектов<br>
 		<a>
@@ -214,10 +214,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Inline and block elements<br>
 		<a>
@@ -229,10 +229,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Семантика веб-сайта<br>
 		<a>
@@ -244,10 +244,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Static and dynamic websites<br>
 		<a>
@@ -259,10 +259,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Виды html-верстки<br>
 		<a>
@@ -274,10 +274,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Специальные теги<br>
 		<a>
@@ -289,10 +289,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Специальные атрибуты<br>
 		<a>
@@ -304,10 +304,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Менеджер пакетов npm<br>
 		<a>
@@ -319,10 +319,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		HTML5 ★ BOILERPLATE<br>
 		<a>
@@ -334,10 +334,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 	<li>
 		Initializr - генератор шаблонов<br>
 		<a>
@@ -349,10 +349,10 @@
 			видеоурок
 		</a>
 		<a>
-			<img src="#" height="14" widht="14"  aling="left" hspace="2" alt="">
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
 			материалы
 		</a>
-	</li>
+	</li><br>
 </ol><br>
 
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-48.png" align="left" width="36" height="36" alt="">
