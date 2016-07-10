@@ -88,7 +88,7 @@
 <h4>HTML</h4><a href='#html'></a>
 <ol>
 	<li>
-		Введение в web-программирование<br>
+		Введение<br>
 		<a>
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
