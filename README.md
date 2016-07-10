@@ -99,7 +99,22 @@
 		</a>
 	</li><br>
 	<li>
-		Работа с текстом<br>
+		Секция head<br>
+		<a>
+		<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/ks1cAub9PGs?list=PLQwXjjTVqyUGjl_u0FaYIIF_BfXcD3oWq">
+		<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li><br>
+	<li>
+		Секция body и немного работы с текстом<br>
 		<a>
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
