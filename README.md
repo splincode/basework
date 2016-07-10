@@ -205,7 +205,7 @@
 	</li><br>
 	<li>
 		Формы<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1lDQeQYXnXHqJMu_kitNT-kq5I_7hX7H8Q4OUlX8ni60/pub?start=false&loop=false&delayms=10000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -220,7 +220,7 @@
 	</li><br>
 	<li>
 		Теги внешних объектов<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/16-X-_3atYdmcaZZa0FGpHxPLuyWp-62h11e_HF-Cjgo/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -235,7 +235,7 @@
 	</li><br>
 	<li>
 		Inline and block elements<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1yCr3Z45nHWCy86p1j6iQnYztvwBf9qRBvv_IRarDrEM/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -250,7 +250,7 @@
 	</li><br>
 	<li>
 		Семантика веб-сайта<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1c4rHSG8cFxmRyW-VU0yPWSbBhh5d0gqQsf-lHNz9Axw/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -265,7 +265,7 @@
 	</li><br>
 	<li>
 		Static and dynamic websites<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1sZENwQ7gMmbw4jZFbbbMu5d-WZY6AXZWOyFfu7U1YaA/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -280,7 +280,7 @@
 	</li><br>
 	<li>
 		Виды html-верстки<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/176mJ3EsmZbQ3IKEv6IaXYEg4x8TaXjJ8WmoC90VctLQ/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -295,7 +295,7 @@
 	</li><br>
 	<li>
 		Специальные теги<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1p7CDXCG1oqsMd3wwBg0MtW197TpbnRCv9qYcGECv5a0/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -310,7 +310,7 @@
 	</li><br>
 	<li>
 		Специальные атрибуты<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1brOGAxzDW9hKWyMl8JbCzpgFviHp3nEWiXjZ3W_Ig9g/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -325,7 +325,7 @@
 	</li><br>
 	<li>
 		Менеджер пакетов npm<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/16dHH5xQAoc8T_xGlMQXDCKUCYaPDCqrHeUvld_tgzU8/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -340,7 +340,7 @@
 	</li><br>
 	<li>
 		HTML5 ★ BOILERPLATE<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1aQgTQ90SFmsF4R469yVPdExnmu6uB5V26WkPMB7xJFE/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
@@ -355,7 +355,7 @@
 	</li><br>
 	<li>
 		Initializr - генератор шаблонов<br>
-		<a>
+		<a href="https://docs.google.com/presentation/d/1hXCKZg4dS3qNxBHe5O_QaV_0qLewsAAAe2doTwt0EkY/pub?start=false&loop=false&delayms=3000">
 			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
 			презентация
 		</a>
