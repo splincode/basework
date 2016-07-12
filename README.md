@@ -28,11 +28,68 @@
 
 <img src="http://splincode.github.io/course/img/cpp.png" align="left" width="36" height="36" alt="">
 <h4>C/С++</h4>
-<ul>
+<ol>
 	<li>
-		<a href="#">1. </a>
-	</li>
-</ul><br>
+		Си. Введение<br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/BpjJGsaLxIc?list=PLQwXjjTVqyUFOzF7eqilU9YSx4aIwKNaq">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li><br>
+	<li>
+		С++. Введение<br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/7Z4eaozJIwo?list=PLQwXjjTVqyUFdpOxqnkKDLlnOhVoIzXsY">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li><br>
+	<li>
+		С++. Обзор редактора<br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/HmSA2MZ1Rlg?list=PLQwXjjTVqyUFdpOxqnkKDLlnOhVoIzXsY">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li><br>
+	<li>
+		С++. Процедурный стиль программирования <br>
+		<a>
+			<img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+			презентация
+		</a>
+		<a href="https://youtu.be/uXiXJbg7IkA?list=PLQwXjjTVqyUFdpOxqnkKDLlnOhVoIzXsY">
+			<img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			видеоурок
+		</a>
+		<a>
+			<img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+			материалы
+		</a>
+	</li><br>
+</ol><br>
 
 
 
