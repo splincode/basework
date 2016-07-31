@@ -17,5 +17,13 @@ class Conversion {
 
         b = (byte) d;
         System.out.println("d и b " + d + " " + b ) ;
+
+
+        int x = 1;
+        double y = 0.5;
+
+        int z = (int) (x + y + 0.5);
+
+        System.out.println("z = " + z ) ;
     }
 }
