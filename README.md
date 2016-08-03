@@ -89,6 +89,21 @@
 			материалы
 		</a>
 	</li><br>
+  <li>
+    С++. Процедурный стиль программирования <br>
+    <a>
+      <img src="http://splincode.github.io/course/css/img/p.png" height="14" widht="14" aling="left" hspace="2" alt="">
+      презентация
+    </a>
+    <a href="https://www.youtube.com/watch?v=yNaCgx99S6Q">
+      <img src="http://splincode.github.io/course/css/img/video.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+      видеоурок
+    </a>
+    <a>
+      <img src="https://cdn3.iconfinder.com/data/icons/ginux/Png/Archive-64.png" height="14" widht="14"  aling="left" hspace="2" alt="">
+      материалы
+    </a>
+  </li><br>
 </ol><br>
 
 
