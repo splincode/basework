@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>average salary</title>
+    <script src='vue.min.js'></script>
+    <script src='salary.js'></script>
+</head>
+<body>
+    
+    <div id="info">
+        Построить три класса (базовый и 2 потомка), описывающих некоторых работников с почасовой оплатой (один из потомков) и фиксированной оплатой (второй потомок). Описать в базовом классе абстрактный метод для расчета среднемесячной заработной платы. Для «повременщиков» формула для расчета такова: «среднемесячная заработная плата = 20.8 * 8 * почасовую ставку», для работников с фиксированной оплатой «среднемесячная заработная плата = фиксированной месячной оплате». 
+    </div>
+    
+    <button></button>
+    <div id="view"></div>
+
+    <ul id="example-1">
+      <li v-for="(key, val) in items">
+        {{ val.name }} :
+        {{ val.lastname }} :
+        {{ val.salaryAvarage() }}
+      </li>
+    </ul>
+
+    <script>
+
+    
+        
+        let workers = [
+            new constWorker('maxim', 'ivanon', 100000), 
+            new timeWorker('anton', 'petrov', 200),
+            new timeWorker('ivan', 'sidorov', 500)
+        ];
+
+        let table = new Vue({
+          el: '#example-1',
+          data: {
+            items: workers
+          }
+        })
+         
+
+
+         //alert(workers[1].salaryAvarage());
+
+    </script>
+</body>
+</html>
