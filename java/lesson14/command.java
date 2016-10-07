@@ -1,13 +1,25 @@
 class CommandLine {
+
+	public static void getOptions(String ... opacity){
+
+		// String [] opacity = {};
+
+		for (String value : opacity) {
+			System.out.println(value);
+		}
+
+	}
+
+
 	public static void main(String args[]) {
 	
-		String name = args[0];
-		String lastname = args[1];
-		String firstname = args[2];
-
-		System.out.println("Имя: " + name);
-		System.out.println("Фамилия: " + lastname);
-		System.out.println("Отчество: " + firstname);
+		if (args.length < 1) {
+			getOptions("width", "height", "position");
+		} else {
+			for (String value : args) {
+				System.out.println(value);
+			}
+		}
 
 	}
 
